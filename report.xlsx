@@ -1,0 +1,11 @@
+# Grouping report
+report = df.groupby("Region")["Sales"].sum()
+
+print("\nSales Report")
+print(report)
+
+# Save report to Excel
+
+report.to_excel("report.xlsx")
+
+print("Report saved!")

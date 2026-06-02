@@ -1,0 +1,7 @@
+Name,Region,Sales,Date
+John,North,1000,2024-01-01
+Sara,South,,2024-01-02
+Mike,East,1500,2024-01-03
+John,North,1000,2024-01-01
+Anna,West,2000,2024-01-04
+,South,1200,2024-01-05
