@@ -1,0 +1,22 @@
+# 📊 Data Cleaning & Reporting Automation
+
+## 🔹 Overview
+Automates data cleaning, processing, and report generation using Python.
+
+## ⚙️ Features
+- Remove duplicates
+- Handle missing values
+- Standardize data
+- Generate Excel reports
+- Create visual charts
+
+## 🛠 Tools Used
+Python, Pandas, Matplotlib, Excel
+
+## 📈 Output
+- Clean dataset
+- Sales report (Excel)
+- Sales visualization chart
+
+## 🚀 Result
+Reduces manual work and improves reporting efficiency.
